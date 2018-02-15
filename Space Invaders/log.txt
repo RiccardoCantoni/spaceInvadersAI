@@ -1,0 +1,30 @@
+-----
+won: True
+human: True
+score: 650
+duration: 53.93
+-----
+won: True
+human: True
+score: 650
+duration: 55.46
+-----
+won: False
+human: True
+score: 640
+duration: 56.90
+-----
+won: True
+human: True
+score: 550
+duration: 52.52
+-----
+won: True
+human: False
+score: 850
+duration: 61.73
+-----
+won: False
+human: True
+score: 320
+duration: 34.98
